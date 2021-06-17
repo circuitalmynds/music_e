@@ -1,181 +1,434 @@
 {
     "available_space": true,
-    "file_sizes": {
-        "Daft Punk - Lose Yourself to Dance (Official Version)-NF-kLy44Hls.mp4": 20.76552677154541,
-        "Debussy - Clair de Lune-WNcsUNKlAKw.mp4": 13.392033576965332,
-        "Desde La Rendija - Elektroduendes-y7fjtUUEojg.mp4": 4.087275505065918,
-        "EL CHARLATAN ISMAEL RIVERA-EuCh8f6AsDA.mp4": 5.441191673278809,
-        "EL V\u00cdDEO DE TERROR  PARA NO DORMIR\ud83d\udc4d\ud83d\udc4c-cGZ0QD3hkbc.mp4": 29.076119422912598,
-        "ESPECIMEN BUENAS NOCHES DIOS-oeMWBYsBZiQ.mp4": 15.525644302368164,
-        "Easy Star All-Stars - Any Dub You Like-bezv7XxvIJY.mp4": 4.503068923950195,
-        "Easy Star All-Stars - Time Version-OUKb2AsCUfo.mp4": 4.83525276184082,
-        "Easy Star All-Stars Step It Pon The Rastaman Scene-WxTkLrN9zYI.mp4": 5.382338523864746,
-        "Eazy E - Nobody Move-hHWHEtoqTF4.mp4": 9.323229789733887,
-        "Echo & The Bunnymen - Lips Like Sugar (Official Music Video)-9hGcJA8fXvU.mp4": 19.37864589691162,
-        "Echo And The Bunnymen - Over The Wall (HD)-erKtIsnisp4.mp4": 5.593811988830566,
-        "Echo And The Bunnymen \u2022 Show of Strength \u2022 1981-dQfj6hAye38.mp4": 23.858381271362305,
-        "Echo and the bunnymen - All that jazz-G_waqW4xeTQ.mp4": 5.888371467590332,
-        "Edward Sharpe & The Magnetic Zeros - Home (Official Video)-DHEOF_rcND8.mp4": 24.52440071105957,
-        "Ego Brain-SCXdbOsP5Ew.mp4": 2.9932947158813477,
-        "El Amigo de Todos-fDG1fPzv2II.mp4": 7.1971588134765625,
-        "El As De La Sierra - El rayo de Sinaloa-BiOXYHB_E_4.mp4": 6.322641372680664,
-        "El Ayudante De Lino--8poyu5CfL8.mp4": 3.235020637512207,
-        "El Cemento de los Concejales-1U-adn2OoW8.mp4": 17.916288375854492,
-        "El Diario de mi vida Chuy Vega y Los Nuevos Cadetes de Linares-VOKMXetJyIg.mp4": 6.341399192810059,
-        "El Guareque-zWVPolT0D7Y.mp4": 5.898566246032715,
-        "El Huerfano - Los Cadetes De Linares-ZawanFnfYVA.mp4": 6.879807472229004,
-        "El Mal Necesario Cartel de Santa vol. 5-Ttc_M0yR3SY.mp4": 9.224433898925781,
-        "El Muchacho y el Potro-SCw5OvFdVdw.mp4": 5.672706604003906,
-        "El Palomito-X-gfnDx6Vzg.mp4": 5.066472053527832,
-        "El Pata de Palo-wys5DjI6-XE.mp4": 5.472841262817383,
-        "El Pa\u00eds de la Libertad - Le\u00f3n Gieco (Letra)-ueAfy0RI9Tk.mp4": 6.768352508544922,
-        "El Rat\u00f3n y el Queso (Video)-n_NMGUSL7aA.mp4": 31.408668518066406,
-        "El Sargento Cinete-QSjhX3WK-Ac.mp4": 3.5524187088012695,
-        "El Tarachi-XjxoJaKzeBQ.mp4": 4.296783447265625,
-        "Elektroduendes - tras la alambrada (album completo)-lRjozjEZWio.mp4": 23.880563735961914,
-        "Ella Fitzgerald & Teddy Wilson - My Melancholy Baby (Brunswick Records 1936)-xLTbEC1prcs.mp4": 8.251002311706543,
-        "Ella Fitzgerald - All The Things You Are (with lyrics)-OPapxr8GvGA.mp4": 7.196730613708496,
-        "Elvis Presley - Can't Help Falling In Love (Audio)-vGJTaP6anOU.mp4": 2.9884958267211914,
-        "Elvis Presley - Promised Land-_HR_-hsAIRA.mp4": 4.524792671203613,
-        "En El Refuego - Grupo Diez 4tro (Official Music Video)-MY1BAMNvS70.mp4": 15.840490341186523,
-        "En el Cofre de Mi Alma-gkOqAe7hFgk.mp4": 6.5278120040893555,
-        "Envidia Kotxina - A falta de paz, buenas son ostias-Ta2Z_5_yUXg.mp4": 6.0554046630859375,
-        "Envidia Kotxina - Hoy ha muerto un ni\u00f1o-CKWJmVdOTW8.mp4": 4.8084564208984375,
-        "Envidia Kotxina - Kampos de Exterminio-WLw4YOLVlug.mp4": 4.335920333862305,
-        "Envidia Kotxina - Pensando En El Ayer-LzgU093iTps.mp4": 3.0374269485473633,
-        "Eptos Uno - Fronteras-M9VDUSypqtI.mp4": 17.006813049316406,
-        "Eskorbuto - Kanziones malditas II (disco completo)-1ps_ewF4Zps.mp4": 46.69263172149658,
-        "Eskorbuto - La marcha del siglo 20-ghkHejaezCk.mp4": 8.58973503112793,
-        "Eskorbuto - Paz Primero La Guerra-tZ88BNBo8nM.mp4": 8.513114929199219,
-        "Eskorbuto-Que corra la sangre!-gbGzfSkP7a0.mp4": 5.62611198425293,
-        "Especimen-Corazon Amargo-un3M7I8PVGo.mp4": 4.950085639953613,
-        "Esperame En El Cielo - Los Panchos-gxpbfg_DQh4.mp4": 10.278374671936035,
-        "Espinoza Paz - Ponte En Mi Lugar ( video oficial )-4qtXVxNG2Zs.mp4": 8.56307601928711,
-        "Esta Cobard\u00eda-ScRN3yp8LzQ.mp4": 5.192319869995117,
-        "Este Es Mi Mundo-RtZdAllgDtU.mp4": 7.891261100769043,
-        "Esto No Trae Precio-WFktzWyxwrg.mp4": 1.4644622802734375,
-        "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video)-qeMFqkcPYcg.mp4": 9.470149993896484,
-        "Everything I Own (Official)-DplMwxLvJGY.mp4": 3.8794193267822266,
-        "Extra\u00f1o-1rFLdi5cr_U.mp4": 7.258617401123047,
-        "Extrechinato y tu - abrazado a la tristeza-oXxAJ3tV-mM.mp4": 10.75647258758545,
-        "Extremoduro - Deltoya-XCapgPaH_0Q.mp4": 13.615187644958496,
-        "Extremoduro con Gatibu - Mila Doinu Aiden-5EQoynUfd_s.mp4": 15.063121795654297,
-        "Extremoduro.-Ama,ama y ensancha el alma.-ZNH6FcxQh_U.mp4": 7.952082633972168,
-        "Felicity-wgl01LTmYKc.mp4": 2.712080955505371,
-        "HERE COMES THE KRAKEN - Into The Slaughter Basement (OFFICIAL VIDEO)-d6HnvHGOgwc.mp4": 28.662242889404297,
-        "Here Comes The Kraken - Don`t Fail Me Darko - Official Music Video-Mxi6tSCYygc.mp4": 18.18604850769043,
-        "Here Comes The Kraken - Knights From Southside-YdbXrp2kZGg.mp4": 6.776454925537109,
-        "Here Comes The Kraken- From the Deepest Darkness-ow0-U4rnlOc.mp4": 8.124565124511719,
-        "Here Comes The Kraken- Miss Starving Skeleton-nx1jdhSAKHM.mp4": 5.133633613586426,
-        "Here Comes the Kraken - I Should Have Asked Where the Remote Control Was Before I Killed You-2T_xp82vW6U.mp4": 9.351703643798828,
-        "Le Quattro Stagioni, The Four Seasons, Concertos for Violin, Strings and Cembalo, Op. 8,...-dNjFgU9urOM.mp4": 5.562440872192383,
-        "Metallica - Damage, Inc. (HD)-h7e9Ww_wowU.mp4": 9.432600975036621,
-        "Perdida-CNRpPd_EAxU.mp4": 7.203564643859863,
-        "Remo Drive - Art School-vHlRYkKhsic.mp4": 10.41137409210205,
-        "Se que bebo se que fumo-nEsJqQAEoyI.mp4": 9.154335021972656,
-        "Sean Paul - I'm Still In Love With You (Official Video)-AQ4TW5Z8eu0.mp4": 18.157816886901855,
-        "Sergio Vega , me arruyas-fBUfUlF41CI.mp4": 3.161168098449707,
-        "Sexo chungo-nxFlR2Evx8M.mp4": 4.953644752502441,
-        "Te juzgar\u00e1n s\u00f3lo por tus errores - Extremoduro cover guitarra-98Zv8coWLoc.mp4": 10.529544830322266,
-        "Verg\u00fcenza-nzE4SgdEb4U.mp4": 8.082932472229004,
-        "Weezer - Say It Ain't So (Version 3)-ENXvZ9YRjbo.mp4": 14.009533882141113,
-        "Weezer - Undone -- The Sweater Song-LHQqqM5sr7g.mp4": 15.066265106201172,
-        "Wes Montgomery - Bock To Bock-g3faH74Sba4.mp4": 12.7723388671875,
-        "Wes Montgomery - Montgomeryland Funk-nSQzaas-z-Q.mp4": 6.435310363769531,
-        "Wes Montgomery - Wes' tune-ILtpmB2QZTg.mp4": 5.421858787536621,
-        "especimen-perdon por nacer-ueT8He3L6b4.mp4": 7.261439323425293,
-        "estigi\u00e4 - ENCERRADA EN UN CUERPO DE MUJER-n1bJOz2kcvY.mp4": 4.560916900634766,
-        "wes montgomery---FarWes-OP289vAd3ZQ.mp4": 8.407109260559082
-    },
     "size_max": 46.69263172149658,
     "size_mean": 9.877214173709644,
     "size_min": 1.4644622802734375,
     "total_size": 839.5632047653198,
     "video_list": {
-        "Daft Punk - Lose Yourself to Dance (Official Version)-NF-kLy44Hls.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Daft%20Punk%20-%20Lose%20Yourself%20to%20Dance%20(Official%20Version)-NF-kLy44Hls.mp4?raw=true",
-        "Debussy - Clair de Lune-WNcsUNKlAKw.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Debussy%20-%20Clair%20de%20Lune-WNcsUNKlAKw.mp4?raw=true",
-        "Desde La Rendija - Elektroduendes-y7fjtUUEojg.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Desde%20La%20Rendija%20-%20Elektroduendes-y7fjtUUEojg.mp4?raw=true",
-        "EL CHARLATAN ISMAEL RIVERA-EuCh8f6AsDA.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/EL%20CHARLATAN%20ISMAEL%20RIVERA-EuCh8f6AsDA.mp4?raw=true",
-        "EL V\u00cdDEO DE TERROR  PARA NO DORMIR\ud83d\udc4d\ud83d\udc4c-cGZ0QD3hkbc.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/EL%20V%C3%8DDEO%20DE%20TERROR%20%20PARA%20NO%20DORMIR%F0%9F%91%8D%F0%9F%91%8C-cGZ0QD3hkbc.mp4?raw=true",
-        "ESPECIMEN BUENAS NOCHES DIOS-oeMWBYsBZiQ.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/ESPECIMEN%20BUENAS%20NOCHES%20DIOS-oeMWBYsBZiQ.mp4?raw=true",
-        "Easy Star All-Stars - Any Dub You Like-bezv7XxvIJY.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Easy%20Star%20All-Stars%20-%20Any%20Dub%20You%20Like-bezv7XxvIJY.mp4?raw=true",
-        "Easy Star All-Stars - Time Version-OUKb2AsCUfo.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Easy%20Star%20All-Stars%20-%20Time%20Version-OUKb2AsCUfo.mp4?raw=true",
-        "Easy Star All-Stars Step It Pon The Rastaman Scene-WxTkLrN9zYI.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Easy%20Star%20All-Stars%20Step%20It%20Pon%20The%20Rastaman%20Scene-WxTkLrN9zYI.mp4?raw=true",
-        "Eazy E - Nobody Move-hHWHEtoqTF4.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eazy%20E%20-%20Nobody%20Move-hHWHEtoqTF4.mp4?raw=true",
-        "Echo & The Bunnymen - Lips Like Sugar (Official Music Video)-9hGcJA8fXvU.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Echo%20%26%20The%20Bunnymen%20-%20Lips%20Like%20Sugar%20(Official%20Music%20Video)-9hGcJA8fXvU.mp4?raw=true",
-        "Echo And The Bunnymen - Over The Wall (HD)-erKtIsnisp4.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Echo%20And%20The%20Bunnymen%20-%20Over%20The%20Wall%20(HD)-erKtIsnisp4.mp4?raw=true",
-        "Echo And The Bunnymen \u2022 Show of Strength \u2022 1981-dQfj6hAye38.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Echo%20And%20The%20Bunnymen%20%E2%80%A2%20Show%20of%20Strength%20%E2%80%A2%201981-dQfj6hAye38.mp4?raw=true",
-        "Echo and the bunnymen - All that jazz-G_waqW4xeTQ.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Echo%20and%20the%20bunnymen%20-%20All%20that%20jazz-G_waqW4xeTQ.mp4?raw=true",
-        "Edward Sharpe & The Magnetic Zeros - Home (Official Video)-DHEOF_rcND8.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Edward%20Sharpe%20%26%20The%20Magnetic%20Zeros%20-%20Home%20(Official%20Video)-DHEOF_rcND8.mp4?raw=true",
-        "Ego Brain-SCXdbOsP5Ew.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Ego%20Brain-SCXdbOsP5Ew.mp4?raw=true",
-        "El Amigo de Todos-fDG1fPzv2II.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Amigo%20de%20Todos-fDG1fPzv2II.mp4?raw=true",
-        "El As De La Sierra - El rayo de Sinaloa-BiOXYHB_E_4.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20As%20De%20La%20Sierra%20-%20El%20rayo%20de%20Sinaloa-BiOXYHB_E_4.mp4?raw=true",
-        "El Ayudante De Lino--8poyu5CfL8.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Ayudante%20De%20Lino--8poyu5CfL8.mp4?raw=true",
-        "El Cemento de los Concejales-1U-adn2OoW8.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Cemento%20de%20los%20Concejales-1U-adn2OoW8.mp4?raw=true",
-        "El Diario de mi vida Chuy Vega y Los Nuevos Cadetes de Linares-VOKMXetJyIg.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Diario%20de%20mi%20vida%20Chuy%20Vega%20y%20Los%20Nuevos%20Cadetes%20de%20Linares-VOKMXetJyIg.mp4?raw=true",
-        "El Guareque-zWVPolT0D7Y.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Guareque-zWVPolT0D7Y.mp4?raw=true",
-        "El Huerfano - Los Cadetes De Linares-ZawanFnfYVA.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Huerfano%20-%20Los%20Cadetes%20De%20Linares-ZawanFnfYVA.mp4?raw=true",
-        "El Mal Necesario Cartel de Santa vol. 5-Ttc_M0yR3SY.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Mal%20Necesario%20Cartel%20de%20Santa%20vol.%205-Ttc_M0yR3SY.mp4?raw=true",
-        "El Muchacho y el Potro-SCw5OvFdVdw.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Muchacho%20y%20el%20Potro-SCw5OvFdVdw.mp4?raw=true",
-        "El Palomito-X-gfnDx6Vzg.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Palomito-X-gfnDx6Vzg.mp4?raw=true",
-        "El Pata de Palo-wys5DjI6-XE.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Pata%20de%20Palo-wys5DjI6-XE.mp4?raw=true",
-        "El Pa\u00eds de la Libertad - Le\u00f3n Gieco (Letra)-ueAfy0RI9Tk.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Pa%C3%ADs%20de%20la%20Libertad%20-%20Le%C3%B3n%20Gieco%20(Letra)-ueAfy0RI9Tk.mp4?raw=true",
-        "El Rat\u00f3n y el Queso (Video)-n_NMGUSL7aA.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Rat%C3%B3n%20y%20el%20Queso%20(Video)-n_NMGUSL7aA.mp4?raw=true",
-        "El Sargento Cinete-QSjhX3WK-Ac.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Sargento%20Cinete-QSjhX3WK-Ac.mp4?raw=true",
-        "El Tarachi-XjxoJaKzeBQ.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Tarachi-XjxoJaKzeBQ.mp4?raw=true",
-        "Elektroduendes - tras la alambrada (album completo)-lRjozjEZWio.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Elektroduendes%20-%20tras%20la%20alambrada%20(album%20completo)-lRjozjEZWio.mp4?raw=true",
-        "Ella Fitzgerald & Teddy Wilson - My Melancholy Baby (Brunswick Records 1936)-xLTbEC1prcs.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Ella%20Fitzgerald%20%26%20Teddy%20Wilson%20-%20My%20Melancholy%20Baby%20(Brunswick%20Records%201936)-xLTbEC1prcs.mp4?raw=true",
-        "Ella Fitzgerald - All The Things You Are (with lyrics)-OPapxr8GvGA.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Ella%20Fitzgerald%20-%20All%20The%20Things%20You%20Are%20(with%20lyrics)-OPapxr8GvGA.mp4?raw=true",
-        "Elvis Presley - Can't Help Falling In Love (Audio)-vGJTaP6anOU.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Elvis%20Presley%20-%20Can't%20Help%20Falling%20In%20Love%20(Audio)-vGJTaP6anOU.mp4?raw=true",
-        "Elvis Presley - Promised Land-_HR_-hsAIRA.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Elvis%20Presley%20-%20Promised%20Land-_HR_-hsAIRA.mp4?raw=true",
-        "En El Refuego - Grupo Diez 4tro (Official Music Video)-MY1BAMNvS70.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/En%20El%20Refuego%20-%20Grupo%20Diez%204tro%20(Official%20Music%20Video)-MY1BAMNvS70.mp4?raw=true",
-        "En el Cofre de Mi Alma-gkOqAe7hFgk.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/En%20el%20Cofre%20de%20Mi%20Alma-gkOqAe7hFgk.mp4?raw=true",
-        "Envidia Kotxina - A falta de paz, buenas son ostias-Ta2Z_5_yUXg.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Envidia%20Kotxina%20-%20A%20falta%20de%20paz%2C%20buenas%20son%20ostias-Ta2Z_5_yUXg.mp4?raw=true",
-        "Envidia Kotxina - Hoy ha muerto un ni\u00f1o-CKWJmVdOTW8.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Envidia%20Kotxina%20-%20Hoy%20ha%20muerto%20un%20ni%C3%B1o-CKWJmVdOTW8.mp4?raw=true",
-        "Envidia Kotxina - Kampos de Exterminio-WLw4YOLVlug.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Envidia%20Kotxina%20-%20Kampos%20de%20Exterminio-WLw4YOLVlug.mp4?raw=true",
-        "Envidia Kotxina - Pensando En El Ayer-LzgU093iTps.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Envidia%20Kotxina%20-%20Pensando%20En%20El%20Ayer-LzgU093iTps.mp4?raw=true",
-        "Eptos Uno - Fronteras-M9VDUSypqtI.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eptos%20Uno%20-%20Fronteras-M9VDUSypqtI.mp4?raw=true",
-        "Eskorbuto - Kanziones malditas II (disco completo)-1ps_ewF4Zps.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eskorbuto%20-%20Kanziones%20malditas%20II%20(disco%20completo)-1ps_ewF4Zps.mp4?raw=true",
-        "Eskorbuto - La marcha del siglo 20-ghkHejaezCk.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eskorbuto%20-%20La%20marcha%20del%20siglo%2020-ghkHejaezCk.mp4?raw=true",
-        "Eskorbuto - Paz Primero La Guerra-tZ88BNBo8nM.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eskorbuto%20-%20Paz%20Primero%20La%20Guerra-tZ88BNBo8nM.mp4?raw=true",
-        "Eskorbuto-Que corra la sangre!-gbGzfSkP7a0.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eskorbuto-Que%20corra%20la%20sangre!-gbGzfSkP7a0.mp4?raw=true",
-        "Especimen-Corazon Amargo-un3M7I8PVGo.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Especimen-Corazon%20Amargo-un3M7I8PVGo.mp4?raw=true",
-        "Esperame En El Cielo - Los Panchos-gxpbfg_DQh4.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Esperame%20En%20El%20Cielo%20-%20Los%20Panchos-gxpbfg_DQh4.mp4?raw=true",
-        "Espinoza Paz - Ponte En Mi Lugar ( video oficial )-4qtXVxNG2Zs.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Espinoza%20Paz%20-%20Ponte%20En%20Mi%20Lugar%20(%20video%20oficial%20)-4qtXVxNG2Zs.mp4?raw=true",
-        "Esta Cobard\u00eda-ScRN3yp8LzQ.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Esta%20Cobard%C3%ADa-ScRN3yp8LzQ.mp4?raw=true",
-        "Este Es Mi Mundo-RtZdAllgDtU.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Este%20Es%20Mi%20Mundo-RtZdAllgDtU.mp4?raw=true",
-        "Esto No Trae Precio-WFktzWyxwrg.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Esto%20No%20Trae%20Precio-WFktzWyxwrg.mp4?raw=true",
-        "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video)-qeMFqkcPYcg.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eurythmics%2C%20Annie%20Lennox%2C%20Dave%20Stewart%20-%20Sweet%20Dreams%20(Are%20Made%20Of%20This)%20(Official%20Video)-qeMFqkcPYcg.mp4?raw=true",
-        "Everything I Own (Official)-DplMwxLvJGY.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Everything%20I%20Own%20(Official)-DplMwxLvJGY.mp4?raw=true",
-        "Extra\u00f1o-1rFLdi5cr_U.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extra%C3%B1o-1rFLdi5cr_U.mp4?raw=true",
-        "Extrechinato y tu - abrazado a la tristeza-oXxAJ3tV-mM.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extrechinato%20y%20tu%20-%20abrazado%20a%20la%20tristeza-oXxAJ3tV-mM.mp4?raw=true",
-        "Extremoduro - Deltoya-XCapgPaH_0Q.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extremoduro%20-%20Deltoya-XCapgPaH_0Q.mp4?raw=true",
-        "Extremoduro con Gatibu - Mila Doinu Aiden-5EQoynUfd_s.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extremoduro%20con%20Gatibu%20-%20Mila%20Doinu%20Aiden-5EQoynUfd_s.mp4?raw=true",
-        "Extremoduro.-Ama,ama y ensancha el alma.-ZNH6FcxQh_U.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extremoduro.-Ama%2Cama%20y%20ensancha%20el%20alma.-ZNH6FcxQh_U.mp4?raw=true",
-        "Felicity-wgl01LTmYKc.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Felicity-wgl01LTmYKc.mp4?raw=true",
-        "HERE COMES THE KRAKEN - Into The Slaughter Basement (OFFICIAL VIDEO)-d6HnvHGOgwc.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/HERE%20COMES%20THE%20KRAKEN%20-%20Into%20The%20Slaughter%20Basement%20(OFFICIAL%20VIDEO)-d6HnvHGOgwc.mp4?raw=true",
-        "Here Comes The Kraken - Don`t Fail Me Darko - Official Music Video-Mxi6tSCYygc.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20The%20Kraken%20-%20Don%60t%20Fail%20Me%20Darko%20-%20Official%20Music%20Video-Mxi6tSCYygc.mp4?raw=true",
-        "Here Comes The Kraken - Knights From Southside-YdbXrp2kZGg.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20The%20Kraken%20-%20Knights%20From%20Southside-YdbXrp2kZGg.mp4?raw=true",
-        "Here Comes The Kraken- From the Deepest Darkness-ow0-U4rnlOc.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20The%20Kraken-%20From%20the%20Deepest%20Darkness-ow0-U4rnlOc.mp4?raw=true",
-        "Here Comes The Kraken- Miss Starving Skeleton-nx1jdhSAKHM.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20The%20Kraken-%20Miss%20Starving%20Skeleton-nx1jdhSAKHM.mp4?raw=true",
-        "Here Comes the Kraken - I Should Have Asked Where the Remote Control Was Before I Killed You-2T_xp82vW6U.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20the%20Kraken%20-%20I%20Should%20Have%20Asked%20Where%20the%20Remote%20Control%20Was%20Before%20I%20Killed%20You-2T_xp82vW6U.mp4?raw=true",
-        "Le Quattro Stagioni, The Four Seasons, Concertos for Violin, Strings and Cembalo, Op. 8,...-dNjFgU9urOM.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Le%20Quattro%20Stagioni%2C%20The%20Four%20Seasons%2C%20Concertos%20for%20Violin%2C%20Strings%20and%20Cembalo%2C%20Op.%208%2C...-dNjFgU9urOM.mp4?raw=true",
-        "Metallica - Damage, Inc. (HD)-h7e9Ww_wowU.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Metallica%20-%20Damage%2C%20Inc.%20(HD)-h7e9Ww_wowU.mp4?raw=true",
-        "Perdida-CNRpPd_EAxU.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Perdida-CNRpPd_EAxU.mp4?raw=true",
-        "Remo Drive - Art School-vHlRYkKhsic.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Remo%20Drive%20-%20Art%20School-vHlRYkKhsic.mp4?raw=true",
-        "Se que bebo se que fumo-nEsJqQAEoyI.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Se%20que%20bebo%20se%20que%20fumo-nEsJqQAEoyI.mp4?raw=true",
-        "Sean Paul - I'm Still In Love With You (Official Video)-AQ4TW5Z8eu0.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Sean%20Paul%20-%20I'm%20Still%20In%20Love%20With%20You%20(Official%20Video)-AQ4TW5Z8eu0.mp4?raw=true",
-        "Sergio Vega , me arruyas-fBUfUlF41CI.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Sergio%20Vega%20%2C%20me%20arruyas-fBUfUlF41CI.mp4?raw=true",
-        "Sexo chungo-nxFlR2Evx8M.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Sexo%20chungo-nxFlR2Evx8M.mp4?raw=true",
-        "Te juzgar\u00e1n s\u00f3lo por tus errores - Extremoduro cover guitarra-98Zv8coWLoc.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Te%20juzgar%C3%A1n%20s%C3%B3lo%20por%20tus%20errores%20-%20Extremoduro%20cover%20guitarra-98Zv8coWLoc.mp4?raw=true",
-        "Verg\u00fcenza-nzE4SgdEb4U.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Verg%C3%BCenza-nzE4SgdEb4U.mp4?raw=true",
-        "Weezer - Say It Ain't So (Version 3)-ENXvZ9YRjbo.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Weezer%20-%20Say%20It%20Ain't%20So%20(Version%203)-ENXvZ9YRjbo.mp4?raw=true",
-        "Weezer - Undone -- The Sweater Song-LHQqqM5sr7g.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Weezer%20-%20Undone%20--%20The%20Sweater%20Song-LHQqqM5sr7g.mp4?raw=true",
-        "Wes Montgomery - Bock To Bock-g3faH74Sba4.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Wes%20Montgomery%20-%20Bock%20To%20Bock-g3faH74Sba4.mp4?raw=true",
-        "Wes Montgomery - Montgomeryland Funk-nSQzaas-z-Q.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Wes%20Montgomery%20-%20Montgomeryland%20Funk-nSQzaas-z-Q.mp4?raw=true",
-        "Wes Montgomery - Wes' tune-ILtpmB2QZTg.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/Wes%20Montgomery%20-%20Wes'%20tune-ILtpmB2QZTg.mp4?raw=true",
-        "especimen-perdon por nacer-ueT8He3L6b4.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/especimen-perdon%20por%20nacer-ueT8He3L6b4.mp4?raw=true",
-        "estigi\u00e4 - ENCERRADA EN UN CUERPO DE MUJER-n1bJOz2kcvY.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/estigi%C3%A4%20-%20ENCERRADA%20EN%20UN%20CUERPO%20DE%20MUJER-n1bJOz2kcvY.mp4?raw=true",
-        "wes montgomery---FarWes-OP289vAd3ZQ.mp4": "https://github.com/circuitalmynds/music_e/blob/main/videos/wes%20montgomery---FarWes-OP289vAd3ZQ.mp4?raw=true"
+        "Daft Punk - Lose Yourself to Dance (Official Version)-NF-kLy44Hls.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 20.76552677154541,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Daft%20Punk%20-%20Lose%20Yourself%20to%20Dance%20(Official%20Version)-NF-kLy44Hls.mp4?raw=true"
+        },
+        "Debussy - Clair de Lune-WNcsUNKlAKw.mp4": {
+            "image": "https://i.ytimg.com/vi/WNcsUNKlAKw/hqdefault.jpg",
+            "size": 13.392033576965332,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Debussy%20-%20Clair%20de%20Lune-WNcsUNKlAKw.mp4?raw=true"
+        },
+        "Desde La Rendija - Elektroduendes-y7fjtUUEojg.mp4": {
+            "image": "https://i.ytimg.com/vi/y7fjtUUEojg/hqdefault.jpg",
+            "size": 4.087275505065918,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Desde%20La%20Rendija%20-%20Elektroduendes-y7fjtUUEojg.mp4?raw=true"
+        },
+        "EL CHARLATAN ISMAEL RIVERA-EuCh8f6AsDA.mp4": {
+            "image": "https://i.ytimg.com/vi/EuCh8f6AsDA/hqdefault.jpg",
+            "size": 5.441191673278809,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/EL%20CHARLATAN%20ISMAEL%20RIVERA-EuCh8f6AsDA.mp4?raw=true"
+        },
+        "EL V\u00cdDEO DE TERROR  PARA NO DORMIR\ud83d\udc4d\ud83d\udc4c-cGZ0QD3hkbc.mp4": {
+            "image": "https://i.ytimg.com/vi/cGZ0QD3hkbc/hqdefault.jpg",
+            "size": 29.076119422912598,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/EL%20V%C3%8DDEO%20DE%20TERROR%20%20PARA%20NO%20DORMIR%F0%9F%91%8D%F0%9F%91%8C-cGZ0QD3hkbc.mp4?raw=true"
+        },
+        "ESPECIMEN BUENAS NOCHES DIOS-oeMWBYsBZiQ.mp4": {
+            "image": "https://i.ytimg.com/vi/oeMWBYsBZiQ/hqdefault.jpg",
+            "size": 15.525644302368164,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/ESPECIMEN%20BUENAS%20NOCHES%20DIOS-oeMWBYsBZiQ.mp4?raw=true"
+        },
+        "Easy Star All-Stars - Any Dub You Like-bezv7XxvIJY.mp4": {
+            "image": "https://i.ytimg.com/vi/bezv7XxvIJY/hqdefault.jpg",
+            "size": 4.503068923950195,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Easy%20Star%20All-Stars%20-%20Any%20Dub%20You%20Like-bezv7XxvIJY.mp4?raw=true"
+        },
+        "Easy Star All-Stars - Time Version-OUKb2AsCUfo.mp4": {
+            "image": "https://i.ytimg.com/vi/OUKb2AsCUfo/hqdefault.jpg",
+            "size": 4.83525276184082,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Easy%20Star%20All-Stars%20-%20Time%20Version-OUKb2AsCUfo.mp4?raw=true"
+        },
+        "Easy Star All-Stars Step It Pon The Rastaman Scene-WxTkLrN9zYI.mp4": {
+            "image": "https://i.ytimg.com/vi/WxTkLrN9zYI/hqdefault.jpg",
+            "size": 5.382338523864746,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Easy%20Star%20All-Stars%20Step%20It%20Pon%20The%20Rastaman%20Scene-WxTkLrN9zYI.mp4?raw=true"
+        },
+        "Eazy E - Nobody Move-hHWHEtoqTF4.mp4": {
+            "image": "https://i.ytimg.com/vi/hHWHEtoqTF4/hqdefault.jpg",
+            "size": 9.323229789733887,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eazy%20E%20-%20Nobody%20Move-hHWHEtoqTF4.mp4?raw=true"
+        },
+        "Echo & The Bunnymen - Lips Like Sugar (Official Music Video)-9hGcJA8fXvU.mp4": {
+            "image": "https://i.ytimg.com/vi/9hGcJA8fXvU/hqdefault.jpg",
+            "size": 19.37864589691162,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Echo%20%26%20The%20Bunnymen%20-%20Lips%20Like%20Sugar%20(Official%20Music%20Video)-9hGcJA8fXvU.mp4?raw=true"
+        },
+        "Echo And The Bunnymen - Over The Wall (HD)-erKtIsnisp4.mp4": {
+            "image": "https://i.ytimg.com/vi/erKtIsnisp4/hqdefault.jpg",
+            "size": 5.593811988830566,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Echo%20And%20The%20Bunnymen%20-%20Over%20The%20Wall%20(HD)-erKtIsnisp4.mp4?raw=true"
+        },
+        "Echo And The Bunnymen \u2022 Show of Strength \u2022 1981-dQfj6hAye38.mp4": {
+            "image": "https://i.ytimg.com/vi/dQfj6hAye38/hqdefault.jpg",
+            "size": 23.858381271362305,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Echo%20And%20The%20Bunnymen%20%E2%80%A2%20Show%20of%20Strength%20%E2%80%A2%201981-dQfj6hAye38.mp4?raw=true"
+        },
+        "Echo and the bunnymen - All that jazz-G_waqW4xeTQ.mp4": {
+            "image": "https://i.ytimg.com/vi/G_waqW4xeTQ/hqdefault.jpg",
+            "size": 5.888371467590332,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Echo%20and%20the%20bunnymen%20-%20All%20that%20jazz-G_waqW4xeTQ.mp4?raw=true"
+        },
+        "Edward Sharpe & The Magnetic Zeros - Home (Official Video)-DHEOF_rcND8.mp4": {
+            "image": "https://i.ytimg.com/vi/DHEOF_rcND8/hqdefault.jpg",
+            "size": 24.52440071105957,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Edward%20Sharpe%20%26%20The%20Magnetic%20Zeros%20-%20Home%20(Official%20Video)-DHEOF_rcND8.mp4?raw=true"
+        },
+        "Ego Brain-SCXdbOsP5Ew.mp4": {
+            "image": "https://i.ytimg.com/vi/SCXdbOsP5Ew/hqdefault.jpg",
+            "size": 2.9932947158813477,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Ego%20Brain-SCXdbOsP5Ew.mp4?raw=true"
+        },
+        "El Amigo de Todos-fDG1fPzv2II.mp4": {
+            "image": "https://i.ytimg.com/vi/fDG1fPzv2II/hqdefault.jpg",
+            "size": 7.1971588134765625,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Amigo%20de%20Todos-fDG1fPzv2II.mp4?raw=true"
+        },
+        "El As De La Sierra - El rayo de Sinaloa-BiOXYHB_E_4.mp4": {
+            "image": "https://i.ytimg.com/vi/BiOXYHB_E_4/hqdefault.jpg",
+            "size": 6.322641372680664,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20As%20De%20La%20Sierra%20-%20El%20rayo%20de%20Sinaloa-BiOXYHB_E_4.mp4?raw=true"
+        },
+        "El Ayudante De Lino--8poyu5CfL8.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 3.235020637512207,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Ayudante%20De%20Lino--8poyu5CfL8.mp4?raw=true"
+        },
+        "El Cemento de los Concejales-1U-adn2OoW8.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 17.916288375854492,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Cemento%20de%20los%20Concejales-1U-adn2OoW8.mp4?raw=true"
+        },
+        "El Diario de mi vida Chuy Vega y Los Nuevos Cadetes de Linares-VOKMXetJyIg.mp4": {
+            "image": "https://i.ytimg.com/vi/VOKMXetJyIg/hqdefault.jpg",
+            "size": 6.341399192810059,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Diario%20de%20mi%20vida%20Chuy%20Vega%20y%20Los%20Nuevos%20Cadetes%20de%20Linares-VOKMXetJyIg.mp4?raw=true"
+        },
+        "El Guareque-zWVPolT0D7Y.mp4": {
+            "image": "https://i.ytimg.com/vi/zWVPolT0D7Y/hqdefault.jpg",
+            "size": 5.898566246032715,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Guareque-zWVPolT0D7Y.mp4?raw=true"
+        },
+        "El Huerfano - Los Cadetes De Linares-ZawanFnfYVA.mp4": {
+            "image": "https://i.ytimg.com/vi/ZawanFnfYVA/hqdefault.jpg",
+            "size": 6.879807472229004,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Huerfano%20-%20Los%20Cadetes%20De%20Linares-ZawanFnfYVA.mp4?raw=true"
+        },
+        "El Mal Necesario Cartel de Santa vol. 5-Ttc_M0yR3SY.mp4": {
+            "image": "https://i.ytimg.com/vi/Ttc_M0yR3SY/hqdefault.jpg",
+            "size": 9.224433898925781,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Mal%20Necesario%20Cartel%20de%20Santa%20vol.%205-Ttc_M0yR3SY.mp4?raw=true"
+        },
+        "El Muchacho y el Potro-SCw5OvFdVdw.mp4": {
+            "image": "https://i.ytimg.com/vi/SCw5OvFdVdw/hqdefault.jpg",
+            "size": 5.672706604003906,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Muchacho%20y%20el%20Potro-SCw5OvFdVdw.mp4?raw=true"
+        },
+        "El Palomito-X-gfnDx6Vzg.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 5.066472053527832,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Palomito-X-gfnDx6Vzg.mp4?raw=true"
+        },
+        "El Pata de Palo-wys5DjI6-XE.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 5.472841262817383,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Pata%20de%20Palo-wys5DjI6-XE.mp4?raw=true"
+        },
+        "El Pa\u00eds de la Libertad - Le\u00f3n Gieco (Letra)-ueAfy0RI9Tk.mp4": {
+            "image": "https://i.ytimg.com/vi/ueAfy0RI9Tk/hqdefault.jpg",
+            "size": 6.768352508544922,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Pa%C3%ADs%20de%20la%20Libertad%20-%20Le%C3%B3n%20Gieco%20(Letra)-ueAfy0RI9Tk.mp4?raw=true"
+        },
+        "El Rat\u00f3n y el Queso (Video)-n_NMGUSL7aA.mp4": {
+            "image": "https://i.ytimg.com/vi/n_NMGUSL7aA/hqdefault.jpg",
+            "size": 31.408668518066406,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Rat%C3%B3n%20y%20el%20Queso%20(Video)-n_NMGUSL7aA.mp4?raw=true"
+        },
+        "El Sargento Cinete-QSjhX3WK-Ac.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 3.5524187088012695,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Sargento%20Cinete-QSjhX3WK-Ac.mp4?raw=true"
+        },
+        "El Tarachi-XjxoJaKzeBQ.mp4": {
+            "image": "https://i.ytimg.com/vi/XjxoJaKzeBQ/hqdefault.jpg",
+            "size": 4.296783447265625,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/El%20Tarachi-XjxoJaKzeBQ.mp4?raw=true"
+        },
+        "Elektroduendes - tras la alambrada (album completo)-lRjozjEZWio.mp4": {
+            "image": "https://i.ytimg.com/vi/lRjozjEZWio/hqdefault.jpg",
+            "size": 23.880563735961914,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Elektroduendes%20-%20tras%20la%20alambrada%20(album%20completo)-lRjozjEZWio.mp4?raw=true"
+        },
+        "Ella Fitzgerald & Teddy Wilson - My Melancholy Baby (Brunswick Records 1936)-xLTbEC1prcs.mp4": {
+            "image": "https://i.ytimg.com/vi/xLTbEC1prcs/hqdefault.jpg",
+            "size": 8.251002311706543,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Ella%20Fitzgerald%20%26%20Teddy%20Wilson%20-%20My%20Melancholy%20Baby%20(Brunswick%20Records%201936)-xLTbEC1prcs.mp4?raw=true"
+        },
+        "Ella Fitzgerald - All The Things You Are (with lyrics)-OPapxr8GvGA.mp4": {
+            "image": "https://i.ytimg.com/vi/OPapxr8GvGA/hqdefault.jpg",
+            "size": 7.196730613708496,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Ella%20Fitzgerald%20-%20All%20The%20Things%20You%20Are%20(with%20lyrics)-OPapxr8GvGA.mp4?raw=true"
+        },
+        "Elvis Presley - Can't Help Falling In Love (Audio)-vGJTaP6anOU.mp4": {
+            "image": "https://i.ytimg.com/vi/vGJTaP6anOU/hqdefault.jpg",
+            "size": 2.9884958267211914,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Elvis%20Presley%20-%20Can't%20Help%20Falling%20In%20Love%20(Audio)-vGJTaP6anOU.mp4?raw=true"
+        },
+        "Elvis Presley - Promised Land-_HR_-hsAIRA.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 4.524792671203613,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Elvis%20Presley%20-%20Promised%20Land-_HR_-hsAIRA.mp4?raw=true"
+        },
+        "En El Refuego - Grupo Diez 4tro (Official Music Video)-MY1BAMNvS70.mp4": {
+            "image": "https://i.ytimg.com/vi/MY1BAMNvS70/hqdefault.jpg",
+            "size": 15.840490341186523,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/En%20El%20Refuego%20-%20Grupo%20Diez%204tro%20(Official%20Music%20Video)-MY1BAMNvS70.mp4?raw=true"
+        },
+        "En el Cofre de Mi Alma-gkOqAe7hFgk.mp4": {
+            "image": "https://i.ytimg.com/vi/gkOqAe7hFgk/hqdefault.jpg",
+            "size": 6.5278120040893555,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/En%20el%20Cofre%20de%20Mi%20Alma-gkOqAe7hFgk.mp4?raw=true"
+        },
+        "Envidia Kotxina - A falta de paz, buenas son ostias-Ta2Z_5_yUXg.mp4": {
+            "image": "https://i.ytimg.com/vi/Ta2Z_5_yUXg/hqdefault.jpg",
+            "size": 6.0554046630859375,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Envidia%20Kotxina%20-%20A%20falta%20de%20paz%2C%20buenas%20son%20ostias-Ta2Z_5_yUXg.mp4?raw=true"
+        },
+        "Envidia Kotxina - Hoy ha muerto un ni\u00f1o-CKWJmVdOTW8.mp4": {
+            "image": "https://i.ytimg.com/vi/CKWJmVdOTW8/hqdefault.jpg",
+            "size": 4.8084564208984375,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Envidia%20Kotxina%20-%20Hoy%20ha%20muerto%20un%20ni%C3%B1o-CKWJmVdOTW8.mp4?raw=true"
+        },
+        "Envidia Kotxina - Kampos de Exterminio-WLw4YOLVlug.mp4": {
+            "image": "https://i.ytimg.com/vi/WLw4YOLVlug/hqdefault.jpg",
+            "size": 4.335920333862305,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Envidia%20Kotxina%20-%20Kampos%20de%20Exterminio-WLw4YOLVlug.mp4?raw=true"
+        },
+        "Envidia Kotxina - Pensando En El Ayer-LzgU093iTps.mp4": {
+            "image": "https://i.ytimg.com/vi/LzgU093iTps/hqdefault.jpg",
+            "size": 3.0374269485473633,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Envidia%20Kotxina%20-%20Pensando%20En%20El%20Ayer-LzgU093iTps.mp4?raw=true"
+        },
+        "Eptos Uno - Fronteras-M9VDUSypqtI.mp4": {
+            "image": "https://i.ytimg.com/vi/M9VDUSypqtI/hqdefault.jpg",
+            "size": 17.006813049316406,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eptos%20Uno%20-%20Fronteras-M9VDUSypqtI.mp4?raw=true"
+        },
+        "Eskorbuto - Kanziones malditas II (disco completo)-1ps_ewF4Zps.mp4": {
+            "image": "https://i.ytimg.com/vi/1ps_ewF4Zps/hqdefault.jpg",
+            "size": 46.69263172149658,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eskorbuto%20-%20Kanziones%20malditas%20II%20(disco%20completo)-1ps_ewF4Zps.mp4?raw=true"
+        },
+        "Eskorbuto - La marcha del siglo 20-ghkHejaezCk.mp4": {
+            "image": "https://i.ytimg.com/vi/ghkHejaezCk/hqdefault.jpg",
+            "size": 8.58973503112793,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eskorbuto%20-%20La%20marcha%20del%20siglo%2020-ghkHejaezCk.mp4?raw=true"
+        },
+        "Eskorbuto - Paz Primero La Guerra-tZ88BNBo8nM.mp4": {
+            "image": "https://i.ytimg.com/vi/tZ88BNBo8nM/hqdefault.jpg",
+            "size": 8.513114929199219,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eskorbuto%20-%20Paz%20Primero%20La%20Guerra-tZ88BNBo8nM.mp4?raw=true"
+        },
+        "Eskorbuto-Que corra la sangre!-gbGzfSkP7a0.mp4": {
+            "image": "https://i.ytimg.com/vi/gbGzfSkP7a0/hqdefault.jpg",
+            "size": 5.62611198425293,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eskorbuto-Que%20corra%20la%20sangre!-gbGzfSkP7a0.mp4?raw=true"
+        },
+        "Especimen-Corazon Amargo-un3M7I8PVGo.mp4": {
+            "image": "https://i.ytimg.com/vi/un3M7I8PVGo/hqdefault.jpg",
+            "size": 4.950085639953613,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Especimen-Corazon%20Amargo-un3M7I8PVGo.mp4?raw=true"
+        },
+        "Esperame En El Cielo - Los Panchos-gxpbfg_DQh4.mp4": {
+            "image": "https://i.ytimg.com/vi/gxpbfg_DQh4/hqdefault.jpg",
+            "size": 10.278374671936035,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Esperame%20En%20El%20Cielo%20-%20Los%20Panchos-gxpbfg_DQh4.mp4?raw=true"
+        },
+        "Espinoza Paz - Ponte En Mi Lugar ( video oficial )-4qtXVxNG2Zs.mp4": {
+            "image": "https://i.ytimg.com/vi/4qtXVxNG2Zs/hqdefault.jpg",
+            "size": 8.56307601928711,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Espinoza%20Paz%20-%20Ponte%20En%20Mi%20Lugar%20(%20video%20oficial%20)-4qtXVxNG2Zs.mp4?raw=true"
+        },
+        "Esta Cobard\u00eda-ScRN3yp8LzQ.mp4": {
+            "image": "https://i.ytimg.com/vi/ScRN3yp8LzQ/hqdefault.jpg",
+            "size": 5.192319869995117,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Esta%20Cobard%C3%ADa-ScRN3yp8LzQ.mp4?raw=true"
+        },
+        "Este Es Mi Mundo-RtZdAllgDtU.mp4": {
+            "image": "https://i.ytimg.com/vi/RtZdAllgDtU/hqdefault.jpg",
+            "size": 7.891261100769043,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Este%20Es%20Mi%20Mundo-RtZdAllgDtU.mp4?raw=true"
+        },
+        "Esto No Trae Precio-WFktzWyxwrg.mp4": {
+            "image": "https://i.ytimg.com/vi/WFktzWyxwrg/hqdefault.jpg",
+            "size": 1.4644622802734375,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Esto%20No%20Trae%20Precio-WFktzWyxwrg.mp4?raw=true"
+        },
+        "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video)-qeMFqkcPYcg.mp4": {
+            "image": "https://i.ytimg.com/vi/qeMFqkcPYcg/hqdefault.jpg",
+            "size": 9.470149993896484,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Eurythmics%2C%20Annie%20Lennox%2C%20Dave%20Stewart%20-%20Sweet%20Dreams%20(Are%20Made%20Of%20This)%20(Official%20Video)-qeMFqkcPYcg.mp4?raw=true"
+        },
+        "Everything I Own (Official)-DplMwxLvJGY.mp4": {
+            "image": "https://i.ytimg.com/vi/DplMwxLvJGY/hqdefault.jpg",
+            "size": 3.8794193267822266,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Everything%20I%20Own%20(Official)-DplMwxLvJGY.mp4?raw=true"
+        },
+        "Extra\u00f1o-1rFLdi5cr_U.mp4": {
+            "image": "https://i.ytimg.com/vi/1rFLdi5cr_U/hqdefault.jpg",
+            "size": 7.258617401123047,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extra%C3%B1o-1rFLdi5cr_U.mp4?raw=true"
+        },
+        "Extrechinato y tu - abrazado a la tristeza-oXxAJ3tV-mM.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 10.75647258758545,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extrechinato%20y%20tu%20-%20abrazado%20a%20la%20tristeza-oXxAJ3tV-mM.mp4?raw=true"
+        },
+        "Extremoduro - Deltoya-XCapgPaH_0Q.mp4": {
+            "image": "https://i.ytimg.com/vi/XCapgPaH_0Q/hqdefault.jpg",
+            "size": 13.615187644958496,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extremoduro%20-%20Deltoya-XCapgPaH_0Q.mp4?raw=true"
+        },
+        "Extremoduro con Gatibu - Mila Doinu Aiden-5EQoynUfd_s.mp4": {
+            "image": "https://i.ytimg.com/vi/5EQoynUfd_s/hqdefault.jpg",
+            "size": 15.063121795654297,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extremoduro%20con%20Gatibu%20-%20Mila%20Doinu%20Aiden-5EQoynUfd_s.mp4?raw=true"
+        },
+        "Extremoduro.-Ama,ama y ensancha el alma.-ZNH6FcxQh_U.mp4": {
+            "image": "https://i.ytimg.com/vi/ZNH6FcxQh_U/hqdefault.jpg",
+            "size": 7.952082633972168,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Extremoduro.-Ama%2Cama%20y%20ensancha%20el%20alma.-ZNH6FcxQh_U.mp4?raw=true"
+        },
+        "Felicity-wgl01LTmYKc.mp4": {
+            "image": "https://i.ytimg.com/vi/wgl01LTmYKc/hqdefault.jpg",
+            "size": 2.712080955505371,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Felicity-wgl01LTmYKc.mp4?raw=true"
+        },
+        "HERE COMES THE KRAKEN - Into The Slaughter Basement (OFFICIAL VIDEO)-d6HnvHGOgwc.mp4": {
+            "image": "https://i.ytimg.com/vi/d6HnvHGOgwc/hqdefault.jpg",
+            "size": 28.662242889404297,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/HERE%20COMES%20THE%20KRAKEN%20-%20Into%20The%20Slaughter%20Basement%20(OFFICIAL%20VIDEO)-d6HnvHGOgwc.mp4?raw=true"
+        },
+        "Here Comes The Kraken - Don`t Fail Me Darko - Official Music Video-Mxi6tSCYygc.mp4": {
+            "image": "https://i.ytimg.com/vi/Mxi6tSCYygc/hqdefault.jpg",
+            "size": 18.18604850769043,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20The%20Kraken%20-%20Don%60t%20Fail%20Me%20Darko%20-%20Official%20Music%20Video-Mxi6tSCYygc.mp4?raw=true"
+        },
+        "Here Comes The Kraken - Knights From Southside-YdbXrp2kZGg.mp4": {
+            "image": "https://i.ytimg.com/vi/YdbXrp2kZGg/hqdefault.jpg",
+            "size": 6.776454925537109,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20The%20Kraken%20-%20Knights%20From%20Southside-YdbXrp2kZGg.mp4?raw=true"
+        },
+        "Here Comes The Kraken- From the Deepest Darkness-ow0-U4rnlOc.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 8.124565124511719,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20The%20Kraken-%20From%20the%20Deepest%20Darkness-ow0-U4rnlOc.mp4?raw=true"
+        },
+        "Here Comes The Kraken- Miss Starving Skeleton-nx1jdhSAKHM.mp4": {
+            "image": "https://i.ytimg.com/vi/nx1jdhSAKHM/hqdefault.jpg",
+            "size": 5.133633613586426,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20The%20Kraken-%20Miss%20Starving%20Skeleton-nx1jdhSAKHM.mp4?raw=true"
+        },
+        "Here Comes the Kraken - I Should Have Asked Where the Remote Control Was Before I Killed You-2T_xp82vW6U.mp4": {
+            "image": "https://i.ytimg.com/vi/2T_xp82vW6U/hqdefault.jpg",
+            "size": 9.351703643798828,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Here%20Comes%20the%20Kraken%20-%20I%20Should%20Have%20Asked%20Where%20the%20Remote%20Control%20Was%20Before%20I%20Killed%20You-2T_xp82vW6U.mp4?raw=true"
+        },
+        "Le Quattro Stagioni, The Four Seasons, Concertos for Violin, Strings and Cembalo, Op. 8,...-dNjFgU9urOM.mp4": {
+            "image": "https://i.ytimg.com/vi/dNjFgU9urOM/hqdefault.jpg",
+            "size": 5.562440872192383,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Le%20Quattro%20Stagioni%2C%20The%20Four%20Seasons%2C%20Concertos%20for%20Violin%2C%20Strings%20and%20Cembalo%2C%20Op.%208%2C...-dNjFgU9urOM.mp4?raw=true"
+        },
+        "Metallica - Damage, Inc. (HD)-h7e9Ww_wowU.mp4": {
+            "image": "https://i.ytimg.com/vi/h7e9Ww_wowU/hqdefault.jpg",
+            "size": 9.432600975036621,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Metallica%20-%20Damage%2C%20Inc.%20(HD)-h7e9Ww_wowU.mp4?raw=true"
+        },
+        "Perdida-CNRpPd_EAxU.mp4": {
+            "image": "https://i.ytimg.com/vi/CNRpPd_EAxU/hqdefault.jpg",
+            "size": 7.203564643859863,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Perdida-CNRpPd_EAxU.mp4?raw=true"
+        },
+        "Remo Drive - Art School-vHlRYkKhsic.mp4": {
+            "image": "https://i.ytimg.com/vi/vHlRYkKhsic/hqdefault.jpg",
+            "size": 10.41137409210205,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Remo%20Drive%20-%20Art%20School-vHlRYkKhsic.mp4?raw=true"
+        },
+        "Se que bebo se que fumo-nEsJqQAEoyI.mp4": {
+            "image": "https://i.ytimg.com/vi/nEsJqQAEoyI/hqdefault.jpg",
+            "size": 9.154335021972656,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Se%20que%20bebo%20se%20que%20fumo-nEsJqQAEoyI.mp4?raw=true"
+        },
+        "Sean Paul - I'm Still In Love With You (Official Video)-AQ4TW5Z8eu0.mp4": {
+            "image": "https://i.ytimg.com/vi/AQ4TW5Z8eu0/hqdefault.jpg",
+            "size": 18.157816886901855,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Sean%20Paul%20-%20I'm%20Still%20In%20Love%20With%20You%20(Official%20Video)-AQ4TW5Z8eu0.mp4?raw=true"
+        },
+        "Sergio Vega , me arruyas-fBUfUlF41CI.mp4": {
+            "image": "https://i.ytimg.com/vi/fBUfUlF41CI/hqdefault.jpg",
+            "size": 3.161168098449707,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Sergio%20Vega%20%2C%20me%20arruyas-fBUfUlF41CI.mp4?raw=true"
+        },
+        "Sexo chungo-nxFlR2Evx8M.mp4": {
+            "image": "https://i.ytimg.com/vi/nxFlR2Evx8M/hqdefault.jpg",
+            "size": 4.953644752502441,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Sexo%20chungo-nxFlR2Evx8M.mp4?raw=true"
+        },
+        "Te juzgar\u00e1n s\u00f3lo por tus errores - Extremoduro cover guitarra-98Zv8coWLoc.mp4": {
+            "image": "https://i.ytimg.com/vi/98Zv8coWLoc/hqdefault.jpg",
+            "size": 10.529544830322266,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Te%20juzgar%C3%A1n%20s%C3%B3lo%20por%20tus%20errores%20-%20Extremoduro%20cover%20guitarra-98Zv8coWLoc.mp4?raw=true"
+        },
+        "Verg\u00fcenza-nzE4SgdEb4U.mp4": {
+            "image": "https://i.ytimg.com/vi/nzE4SgdEb4U/hqdefault.jpg",
+            "size": 8.082932472229004,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Verg%C3%BCenza-nzE4SgdEb4U.mp4?raw=true"
+        },
+        "Weezer - Say It Ain't So (Version 3)-ENXvZ9YRjbo.mp4": {
+            "image": "https://i.ytimg.com/vi/ENXvZ9YRjbo/hqdefault.jpg",
+            "size": 14.009533882141113,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Weezer%20-%20Say%20It%20Ain't%20So%20(Version%203)-ENXvZ9YRjbo.mp4?raw=true"
+        },
+        "Weezer - Undone -- The Sweater Song-LHQqqM5sr7g.mp4": {
+            "image": "https://i.ytimg.com/vi/LHQqqM5sr7g/hqdefault.jpg",
+            "size": 15.066265106201172,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Weezer%20-%20Undone%20--%20The%20Sweater%20Song-LHQqqM5sr7g.mp4?raw=true"
+        },
+        "Wes Montgomery - Bock To Bock-g3faH74Sba4.mp4": {
+            "image": "https://i.ytimg.com/vi/g3faH74Sba4/hqdefault.jpg",
+            "size": 12.7723388671875,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Wes%20Montgomery%20-%20Bock%20To%20Bock-g3faH74Sba4.mp4?raw=true"
+        },
+        "Wes Montgomery - Montgomeryland Funk-nSQzaas-z-Q.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 6.435310363769531,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Wes%20Montgomery%20-%20Montgomeryland%20Funk-nSQzaas-z-Q.mp4?raw=true"
+        },
+        "Wes Montgomery - Wes' tune-ILtpmB2QZTg.mp4": {
+            "image": "https://i.ytimg.com/vi/ILtpmB2QZTg/hqdefault.jpg",
+            "size": 5.421858787536621,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Wes%20Montgomery%20-%20Wes'%20tune-ILtpmB2QZTg.mp4?raw=true"
+        },
+        "especimen-perdon por nacer-ueT8He3L6b4.mp4": {
+            "image": "https://i.ytimg.com/vi/ueT8He3L6b4/hqdefault.jpg",
+            "size": 7.261439323425293,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/especimen-perdon%20por%20nacer-ueT8He3L6b4.mp4?raw=true"
+        },
+        "estigi\u00e4 - ENCERRADA EN UN CUERPO DE MUJER-n1bJOz2kcvY.mp4": {
+            "image": "https://i.ytimg.com/vi/n1bJOz2kcvY/hqdefault.jpg",
+            "size": 4.560916900634766,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/estigi%C3%A4%20-%20ENCERRADA%20EN%20UN%20CUERPO%20DE%20MUJER-n1bJOz2kcvY.mp4?raw=true"
+        },
+        "wes montgomery---FarWes-OP289vAd3ZQ.mp4": {
+            "image": "https://i.ytimg.com/vi/OP289vAd3ZQ/hqdefault.jpg",
+            "size": 8.407109260559082,
+            "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/wes%20montgomery---FarWes-OP289vAd3ZQ.mp4?raw=true"
+        }
     }
 }
