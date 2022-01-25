@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1039.1235000000004,
+    "videos": [
         "Earth Angel ~ The Crew Cuts (1955)(78 rpm)-ePn-lkJkDv0.mp4",
         "All That Jazz-7qKBjgzyEPk.mp4",
         "Echo and the Bunnymen - Rescue-z-Ztaw9Zc2Y.mp4",
@@ -104,7 +105,5 @@
         "Green, Green Grass of Home (Live at Folsom State Prison, Folsom, CA - January 1968)-SLfxsneyfnY.mp4",
         "Ghetto Kids, Darell, Malo - Baja (Video Oficial)-qJ-kHqnnthI.mp4",
         "Por el estrecho - Robe con Ratanera-uGnI2NoXHRo.mp4"
-    ],
-    "id": "e",
-    "total_size": 990.9857744140628
+    ]
 }
